@@ -55,7 +55,7 @@ Filters and slicers
 
 Dashboard Features
 
-The Power BI dashboard includes:
+The Power BI dashboard includes :
 
 Top Rated Movies and TV Shows
 
