@@ -1,88 +1,79 @@
 Netflix Movies & TV Shows Visualization (1996–2022)
-Project Overview 
 
-This project presents an interactive Power BI dashboard analyzing Netflix movies and TV shows from 1996 to 2022. The analysis focuses on identifying top-rated content, distribution of movies and TV shows, and trends in content release over time.
+Overview
 
-Using Power BI, the dataset was cleaned, transformed, and visualized to provide insights into Netflix’s content library and highlight popular movies and TV shows.
+This project focuses on analyzing Netflix's content library to understand trends in movies and TV shows available on the platform. Using Power BI, the dataset was transformed and visualized to identify top-rated content, distribution of movies and TV shows, and release trends from 1996 to 2022. The goal is to present insights through an interactive dashboard that helps understand Netflix’s content patterns.
 
-Objectives :
+Objectives
 
-Identify top-rated movies and TV shows on Netflix
+Analyze the distribution of movies and TV shows on Netflix
 
-Analyze content distribution between movies and TV shows
+Identify top-rated movies and TV shows
 
-Examine trends in content release from 1996 to 2022
+Examine content release trends between 1996 and 2022
 
-Create an interactive dashboard for visual exploration of Netflix data
+Understand how different genres and ratings contribute to Netflix’s content library
 
-Dataset Description :
+Build an interactive visualization dashboard for data exploration
 
-The dataset contains information about Netflix movies and TV shows released between 1996 and 2022.
+Scope of Work
 
-Key attributes in the dataset include :
+The project focuses on data transformation, visualization, and dashboard development using Power BI. The analysis highlights trends in Netflix content and provides insights into content distribution and popularity.
 
-Title – Name of the movie or TV show
+Data Cleaning & Preparation
 
-Type – Movie or TV Show
+The following data preparation steps were performed:
 
-Release Year – Year the content was released
+Removal of duplicate or irrelevant entries
 
-Rating – Content rating (e.g., TV-MA, PG-13)
+Handling missing or incomplete values
 
-Duration – Length of the movie or number of seasons for TV shows
+Standardization of categorical fields such as content type and ratings
 
-Genre – Category of the content
+Formatting of date and release year columns for accurate analysis
 
-The dataset was processed in Power BI to build visual insights and dashboards.
+Analysis Performed
 
-Tools Used : 
+Identification of top-rated movies and TV shows
 
-Power BI
+Analysis of content distribution between movies and TV shows
 
-Data transformation
+Examination of year-wise content release trends
 
-Data modeling
+Analysis of content by ratings and categories
 
-Interactive dashboard creation
+Interactive filtering and exploration using Power BI dashboard features
 
-Power BI Visualizations
+Key Insights
 
-Bar charts
+Netflix’s content library has expanded significantly in recent years
 
-Line charts
+Movies represent a major share of the platform’s total content
 
-Filters and slicers
+Certain ratings and genres dominate the top-rated content categories
 
-Dashboard Features
+Content production trends show increasing investment in entertainment content
 
-The Power BI dashboard includes :
+Business Impact
 
-Top Rated Movies and TV Shows
+Helps understand content distribution and popularity trends
 
-Content Distribution by Type (Movies vs TV Shows)
+Provides insights useful for content strategy and acquisition decisions
 
-Year-wise Content Release Trends (1996–2022)
+Supports data-driven analysis of entertainment platform content trends
 
-Genre-based Content Distribution
+Demonstrates how data visualization can simplify complex datasets
 
-Interactive filters for exploring the dataset
+Tech Stack
 
-Key Insights : 
+Power BI (data transformation and visualization)
 
-Netflix has significantly increased its content production in recent years.
+How to Use
 
-Movies make up a large portion of the platform’s content library.
+Download or open the Power BI (.pbix) dashboard file
 
-Certain genres and ratings dominate the top-rated content categories.
+Load the Netflix dataset into Power BI if required
 
-Skills Demonstrated : 
+Explore the interactive visuals and filters
 
-Data Visualization
-
-Dashboard Development
-
-Data Transformation
-
-Business Insights Generation
-
-Power BI
+Analyze trends in content distribution and top-rated shows
